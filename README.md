@@ -2,7 +2,7 @@
 
 <p align="center">This website is an opportunity to demonstrate a portfolio of information about me and to provide further information (via links) about my work.<p>
 
-### <code>Live Demo</code> - **[Portfolio Website](https://kahledelgamely.github.io/khaled/)**
+### <code>Live Demo</code> - **[Portfolio Website](https://khaledelgamely.netlify.app)**
 
 # Website Preview
 
